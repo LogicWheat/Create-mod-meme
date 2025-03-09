@@ -1,0 +1,3 @@
+files:
+  - source: /assets/create/lang/en_us.json
+    translation: assets/create/lang/zh_cn.json

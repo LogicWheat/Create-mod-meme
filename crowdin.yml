@@ -1,3 +1,3 @@
 files:
-  - source: /assets/create/lang/en_us.json
+  - source: /assets/create/lang/Create-zh_CN.json
     translation: assets/create/lang/zh_cn.json
